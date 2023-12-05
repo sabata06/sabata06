@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React, React Native, Next.js, Vue.js, Typescript**
 
-- 🌱 I’m currently learning **React, Django, Typescript, Node.js, React Native**
+- 🌱 I’m currently learning **React, Django, Typescript, Node.js, Express, React Native**
 
 - 📫 How to reach me **m.karaarslan06@outlook.com**
 
