@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabata06" alt="sabata06" /></a> </p>
 
-- 🔭 I’m currently working on **React, React Native, Next.js, Vue.js, Typescript Django**
+- 🔭 I’m currently working on **React, React Native, Next.js, Vue.js, Typescript, Django, Node.js**
 
 - 🌱 I’m currently learning **React, Django, Typescript, Node.js, Express.js, React Native**
 
